@@ -1,6 +1,5 @@
 #include <iostream>
 #include <filesystem>
-#include <thread>
 #include <toml++/toml.hpp>
 
 int main(int argc, char** argv) {
