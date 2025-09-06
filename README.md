@@ -19,7 +19,7 @@ You can compile the builder itself using g++:
 g++ src/builder.cpp -o c3c-builder
 ```
 
-Once compiled, you can use it to build your C3C projects.
+Once compiled, you can use it to build your C3C projects by running it with the specified path to your TOML configuration. 
 
 ## Example configuration
 ```toml
