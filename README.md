@@ -1,6 +1,6 @@
 ## C3C-Builder
 
-C3C-Builder is a build utility for C3C projects, similar in style and functionality to CMake for C/C++.
+C3C-Builder is a build utility for [C3C](https://c3-lang.org/) projects, similar in style and functionality to CMake for C/C++.
 It uses TOML configuration files to manage project settings, build options, libraries, and more.
 
 It utilizes the C3C cli so having the language installed is a requirement.
